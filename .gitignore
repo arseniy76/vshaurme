@@ -2,3 +2,5 @@
 .idea/
 .DS_Store/
 .vscode/
+another_db.sqlite3/
+database.sqlite3/
